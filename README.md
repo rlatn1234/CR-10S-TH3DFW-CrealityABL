@@ -4,12 +4,7 @@
 
 **Table of Contents**
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+
 
 
 ### Supported Model
@@ -31,5 +26,25 @@
 
 ### How To Flash
 
+
+- [개요](#--)
+
+- [유사 게임 분석](#--------)
+
+- [세계관](#---)
+
+  * [전체 세계관](#------)
+
+  * [스토리](#---)
+
+  * [캐릭터](#---)
+
+- [구조 및 형태](#-------)
+
+  * [Flow Chart](#flow-chart)
+
+  * [UI](#ui)
+
+  * [Key 설정](#key---)
 
 
