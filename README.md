@@ -6,7 +6,7 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [CR-10S-TH3DFW-Creality ABL](#1-CR-10S-TH3DFW-Creality ABL)
+- [CR-10S-TH3DFW-Creality ABL](#CR-10S-TH3DFW-Creality ABL)
 - [1. Installation](#2-installation)
 - [2. Usage](#3-usage)
     - [2.1. Insert TOC](#31-insert-toc)
