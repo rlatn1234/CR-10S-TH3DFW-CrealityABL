@@ -20,7 +20,7 @@
 - [7. License](#8-license)
 - [8. Links](#9-links)
 
-
+<!-- /TOC -->
 ### Supported Model
 
 - Creality CR-10S 300X300 
