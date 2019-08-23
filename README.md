@@ -10,19 +10,18 @@
 - [1.Supported-Model](#supported-model)
 - [2. Tested Model](#tested-model)
 - [3. How To Flash](#how-to-flash)
-- [4. Contributors](#5-contributors)
-- [5. What's New?](#6-whats-new)
-- [6. Question](#7-question)
-- [7. License](#8-license)
-- [8. Links](#9-links)
+- [4. What's New?](#whats-new)
+- [5. Question](#question)
+- [6. License](#license)
+- [7. Links](#links)
 
 <!-- /TOC -->
 
 ## Supported Model
 
-### Creality CR-10S 300X300
-### Creality CR-10S 400X400
-### Creality CR-10S 500X500
+- Creality CR-10S 300X300
+- Creality CR-10S 400X400
+- Creality CR-10S 500X500
 
 
 ------------
@@ -34,10 +33,6 @@
 
 ------------
 
-
 ### How To Flash
-
-
-
-
-
+ 1.Get your printer's Firmware HEX file in releases page.
+ 2.Flash your firmware to your printer by 
