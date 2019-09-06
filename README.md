@@ -34,7 +34,7 @@
 ------------
 
 ### How To Flash
-- 1.Get your printer's Firmware HEX file in [releases](https://github.com/rlatn1234/CR-10S-TH3DFW-CrealityABL/releases) page.
+- 1.Get your printer's Firmware HEX file in [Releases](https://github.com/rlatn1234/CR-10S-TH3DFW-CrealityABL/releases) page.
 - 2.Flash your firmware to your printer by Cura or another programs.
 - 3.Enjoy your Creality ABL sensor with CR-10S
 
