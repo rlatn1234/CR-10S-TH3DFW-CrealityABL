@@ -12,9 +12,6 @@
 - [2. Tested Model](#tested-model)
 - [3. How To Flash](#how-to-flash)
 - [4. What's New?](#whats-new)
-- [5. Question](#question)
-- [6. License](#license)
-- [7. Links](#links)
 
 <!-- /TOC -->
 
@@ -49,16 +46,3 @@ Warning!! THIS IS NOT OFFICIAL FIRMWARE BE AWARE OF FLASHING AT YOUR OWN RISK
 
 ### What's New?
 - New Z offset animation
-
-
-------------
-
-### Question
-- Q:I already have this firmware Why are you releasing this to github?
-- A:In korea there are only 2 versions of firmware which is too old for me.
-
-- Q:I want you to build another 3D printer Firmware which doesn't supported by TH3D Firmware.
-- A:I will make Google form requesting 3D printer's firmware
-
-- Q:I want to support you 
-- A:Thx Link to [patreon](https://www.patreon.com/rlatn1234) or you can support me as Paypal (link will be provided)
